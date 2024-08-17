@@ -1,4 +1,26 @@
 /* primer selector con etiquetas html */
 h1 {
-    color: rgb(17, 212, 59);
+    color: rgb(0, 213, 255);
+}
+
+article h2 {
+    color: rgb(151, 4, 4);
+}
+/* p {
+    color: #007b2d;
+} */
+.texto {
+    color: rgb(96, 247, 96);
+}
+
+/* selector con clases */
+
+/* article p {
+    color: rgb(255, 0, 0);
+} */
+
+/* selector con id */
+
+#texto2 {
+    color: blueviolet;
 }
